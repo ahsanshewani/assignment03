@@ -1,0 +1,323 @@
+.para{
+    text-align: center;
+    color: white;
+    
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 50%;
+    float: left;
+    padding-top: 15px;
+}
+    .header{
+        width: 100%;
+        height: 60px;
+        background-color: #316dc3;
+        text-align: center;
+
+
+    
+    }
+    .icons{
+        width: 25%;
+        float: left;
+        padding-top: 15px;
+    
+        
+    
+
+    }
+
+}
+.buttons{
+    padding-top: 15px;
+     
+    
+    padding-bottom: 15px;
+}
+.intro{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+
+
+    
+}
+.first{
+    display: inline;
+    color: #316dc3;
+    font-size: 40px;
+
+}
+.second
+{
+    display: inline;
+    color: #427900 ;
+    font-size: 40px;
+}
+.info{
+    color: #666666;
+    font-size: 19px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 35px;
+    width: 70%;
+    text-align: justify;
+    margin-left: 250px;
+    
+    
+}
+.counter{
+    width: 100%;
+    text-align: center;
+    background-color: #2755e9;
+    font-family: sans-serif serif;
+    height: 100%;
+    
+    
+}
+.kitchen{
+    display: inline;
+    background-color: #2755e9;
+    width: 25%;
+    float: left;
+    color: #f2f4fe;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    
+}
+.family{
+    float: left;
+    background-color: #2755e9;
+    width: 25%;
+    color: #f2f4fe;
+    padding-top: 90px;
+    padding-bottom: 95px;
+
+}
+.health{
+    background-color: #2755e9;
+    width: 25%;
+    float: left;
+    color: #f2f4fe;
+    padding-top: 77px;
+    padding-bottom: 101px;
+}
+.education{
+    float: left;
+    background-color: #2755e9;
+    width: 25%;
+    color: #f2f4fe;
+    padding-top: 80px;
+    padding-bottom: 105px;
+}
+.services{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin-top: 200px;
+
+}
+
+    
+    
+}
+.mission{
+    color: #316dc3;
+    font-family: 'Merriweather', serif;
+    margin-left: 150px;
+    width: 60%;
+    
+}
+.head{
+    margin-left: 150px;
+     font-family: 'Merriweather', serif;
+     color: #316dc3;
+     width: 60%;
+}
+
+.hepatitis{
+    width: 400px;
+    height: 70px;
+    background-color: #f7f8fa;
+    float: left;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.housing{
+    width: 400px;
+    height: 70px;
+    background-color: #f7f8fa;
+    float: left;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-left: 15px;
+
+}
+.literacy{ width: 400px;
+    height: 70px;
+    background-color: #f7f8fa;
+    margin-top: 30px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 15px;
+    
+    
+
+}
+.thar{ width: 400px;
+    height: 70px;
+    background-color: #f7f8fa;
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-left: 15px;
+    
+}
+.gallery{
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Merriweather', serif;
+}
+.img{
+    color: #316dc3;
+    font-size: 40px;
+    display: inline;
+    
+}
+.gal{
+    color: #427900 ;
+    font-size: 40px;
+    display: inline;
+}
+.log{
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+    float: left;
+    width: 25%;
+    max-width: 100%; } }
+    
+    .carousel-multi-item-2 .card img {
+    border-radius: 2px; }
+    .footer{
+
+        background-color:#25272e;
+        width: 100%;
+        float: left;
+        ;
+    }
+    .details{
+        color:#d7dade;
+        widows: 40%;
+        
+        text-align: left;
+        margin-left: 250px;
+        margin-top: 100px;
+        padding-top: 100px;
+        background-color:#25272e ;
+        
+        
+        
+     
+
+    }
+    .image{
+    padding-left: 500px;
+        
+       
+    }
+    .footer{
+        background: #25272e;
+        color: #d7dade;;
+        
+        
+        
+    }
+    .copyright{
+        background-color: #316dc3;
+        color: white;
+        padding-bottom: 30px;
+        
+        align-items: center;
+
+    
+        padding-left: 200px;
+        font-size: 15px;
+    
+
+
+      
+    }
+    .navbar {
+        box-shadow: 2px 2px 5px #316DC3;
+        opacity: 0.9;
+        background: #fff;
+    }
+    #font-doing-div {
+        margin-top: 10px;
+        font-size: 18px;
+        font-family: 'Merriweather', serif;
+        color: #316DC3;
+    }
+    
+    #font-doings-div {
+        margin-left: 20px;
+        margin-top: 10px;
+        font-size: 16px;
+        font-family: 'Merriweather', serif;
+        color: #316DC3;
+    }
+    
+    #font-event-div {
+        margin-top: 10px;
+        font-size: 28px;
+        font-family: 'Merriweather', serif;
+        color: #316DC3;
+    }
+    
+    .bg-silver-light {
+        background-color: #f7f8fa;
+    }
+    
+    #doing-head {
+        margin-top: 50px;
+        margin-left: 120px;
+    }
+    
+    .doing-div {
+        border: 1px solid #f7f8fa;
+        padding-bottom: 25px;
+    }
+    
+    .p-15 {
+        padding: 15px !important;
+    }
+    
+    .section-content .text-center {
+        border: 1px solid #f7f8fa;
+        padding: 25px 50px 25px 50px !important;
+        box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    }
+    
+    h3 {
+        font-size: 24px;
+    }
+    
+    #mar-color {
+        color: grey;
+    }
+    
+    
+    
+   
+    
+        
+       
+        
+    
+    
+    
+   
+
